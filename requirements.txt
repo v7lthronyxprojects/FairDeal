@@ -1,0 +1,17 @@
+os
+re
+logging
+requests
+python-dotenv
+beautifulsoup4
+PyQt5
+selenium
+webdriver-manager
+pandas
+numpy
+scikit-learn
+joblib
+opencv-python
+pytesseract
+stem
+urllib3
